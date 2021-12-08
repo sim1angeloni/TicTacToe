@@ -1,6 +1,8 @@
 Tic Tac Toe
 ===========
 
+[![CI](https://github.com/sineang01/TicTacToe/actions/workflows/ci.yml/badge.svg)](https://github.com/sineang01/TicTacToe/actions/workflows/ci.yml)
+
 Tic Tac Toe 1.0 is a C++11 console implementation of the classic game also known as noughts and crosses.
 
 ![Tic Tac Toe](https://i.ibb.co/V91gmQr/ttt.png)
